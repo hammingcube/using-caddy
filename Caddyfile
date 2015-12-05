@@ -1,0 +1,8 @@
+thinkhike.com {
+	root /home/admin/publish/hello
+}
+
+cool.thinkhike.com {
+	proxy / localhost:3012
+}
+
