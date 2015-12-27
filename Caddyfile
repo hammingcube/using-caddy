@@ -3,6 +3,6 @@ thinkhike.com {
 }
 
 cool.thinkhike.com {
-	proxy / localhost:3012
+	proxy / localhost:1323
 }
 
