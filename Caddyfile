@@ -1,5 +1,5 @@
 {$THINK_HIKE_HOST} {
-	root /Users/madhavjha/src/thinkhike-web-src/public
+	root /home/admin/publish/thinkhike-web-src/public
     git {
         repo  https://github.com/thinkhike/thinkhike-web
         path  ../
