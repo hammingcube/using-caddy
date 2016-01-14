@@ -11,5 +11,8 @@
 	proxy / localhost:3000
 }
 
+{$BADGE_SUBDOMAIN} {
+	proxy / localhost:8085
+}
 
 
